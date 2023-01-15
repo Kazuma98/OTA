@@ -4,7 +4,7 @@
       "datetime": 1673741260,
       "filename": "ota.zip",
       "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "unofficial",
+      "romtype": "nightly",
       "size": 6560694,
       "url": "https://github.com/Kazuma98/OTA/releases/download/v3.1/ota.zip",
       "version": "2.0"
