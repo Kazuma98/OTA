@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1673956159,
-      "filename": "SakuraOS-v2.0-6.0_bullhead-downgrade.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc4",
+      "datetime": 1673909167,
+      "filename": "signed-SakuraOS-v2.0.1-bullhead.zip",
+      "id": "002",
       "romtype": "unofficial",
-      "size": 1162596588,
-       "url": "https://github.com/Kazuma98/OTA/releases/download/v2.0/SakuraOS-v2.0-6.0_bullhead-downgrade.zip",
+      "size": 47238926,
+       "url": "https://github.com/Kazuma98/OTA/releases/download/v2.0.1/signed-SakuraOS-v2.0.1-bullhead.zip",
       "version": "2.0"
     }
   ]
