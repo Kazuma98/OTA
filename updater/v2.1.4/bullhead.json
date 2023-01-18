@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1674151374,
+      "filename": "signed-SakuraOS-v2.1.5-ota.zip",
+      "id": "011",
+      "romtype": "unofficial",
+      "size": 9020678,
+       "url": "https://github.com/Kazuma98/OTA/releases/download/v2.1.5/signed-SakuraOS-v2.1.5-ota.zip",
+      "version": "2.1.5"
+    }
+  ]
+}
