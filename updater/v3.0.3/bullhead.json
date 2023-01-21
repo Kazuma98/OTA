@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1674413097,
+      "filename": "signed-SakuraOS-v3.1.1-ota.zip",
+      "id": "016",
+      "romtype": "unofficial",
+      "size": 444152411,
+       "url": "https://github.com/Kazuma98/OTA/releases/download/v3.1.1/signed-SakuraOS-v3.1.1-ota.zip",
+      "version": "3.1.1"
+    }
+  ]
+}
