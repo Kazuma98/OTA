@@ -2,9 +2,9 @@
     "datetime": "1674823948",
     "donate_url": "",
     "error": false,
-    "filehash": "06044251ccbabef027096236707bee1f",
-    "filename": "PixelExperience_alioth-11.0-20210906-1111-OFFICIAL.zip",
-    "id": "06044251ccbabef027096236707bee1f",
+    "filehash": "427b7df08c3d7d6bbac17b645f0b5732",
+    "filename": "PixelExperience_alioth-11.0-20211011-1111-OFFICIAL.zip",
+    "id": "427b7df08c3d7d6bbac17b645f0b5732",
     "maintainers": [
         {
             "github_username": "kazuma98",
@@ -13,8 +13,8 @@
         }
     ],
     "news_url": "https://t.me/PixelExperience",
-    "size": "1553545343",
-    "url": "https://github.com/Kazuma98/OTA/releases/download/21-09/PixelExperience_alioth-11.0-20210906-1111-OFFICIAL.zip",
+    "size": "1553547235",
+    "url": "https://github.com/Kazuma98/OTA/releases/download/21-10/PixelExperience_alioth-11.0-20211011-1111-OFFICIAL.zip",
     "version": "eleven",
     "website_url": "https://github.com/Kazuma98/OTA/releases"
 }
