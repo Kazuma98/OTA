@@ -1,0 +1,20 @@
+{
+    "datetime": "1706564400",
+    "donate_url": "",
+    "error": false,
+    "filehash": "628a5cc257aa5aed94ed9dcc90e4bdb6",
+    "filename": "PixelExperience_RM6785-13.0-20230109-1313-OFFICIAL.zip",
+    "id": "628a5cc257aa5aed94ed9dcc90e4bdb6",
+    "maintainers": [
+        {
+            "github_username": "kazuma98",
+            "main_maintainer": true,
+            "name": "Kazuma98"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "1933449180",
+    "url": "https://github.com/Kazuma98/OTA/releases/download/2301/PixelExperience_RM6785-13.0-20230109-1313-OFFICIAL.zip",
+    "version": "thirteen",
+    "website_url": "https://github.com/Kazuma98/OTA/releases"
+}
